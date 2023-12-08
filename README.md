@@ -1,4 +1,5 @@
-![Uploading Screenshot (3).png…]()
+![image](https://github.com/ChaudharyShyam/LGMVIP-Web-Task-1/assets/150513922/58296698-b317-439d-8b3e-24d1e491b20f)
+
 
 # LGMVIP-Web-Task-1
 
