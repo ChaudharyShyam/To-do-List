@@ -1,3 +1,5 @@
+![Uploading Screenshot (3).png…]()
+
 # LGMVIP-Web-Task-1
 
 I am thrilled to present the successful execution of the Beginner Level - Task 1 during my internship with LetsGrowMore (LGMVIP Web Developer Internship). In this task, I crafted a dynamic To-Do List using HTML, CSS, and JavaScript, showcasing my skills in web development.
