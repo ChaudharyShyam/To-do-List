@@ -1,9 +1,9 @@
 ![image](https://github.com/ChaudharyShyam/LGMVIP-Web-Task-1/assets/150513922/58296698-b317-439d-8b3e-24d1e491b20f)
 
 
-# LGMVIP-Web-Task-1
+# To-do list
 
-I am thrilled to present the successful execution of the Beginner Level - Task 1 during my internship with LetsGrowMore (LGMVIP Web Developer Internship). In this task, I crafted a dynamic To-Do List using HTML, CSS, and JavaScript, showcasing my skills in web development.
+I crafted a dynamic To-Do List using HTML, CSS, and JavaScript, showcasing my skills in web development.
 
 # To Do List Web Application
 
@@ -22,4 +22,6 @@ This repository contains a simple To-Do List web application built using HTML, C
 4. Persistence: The application uses local storage to save tasks, ensuring that tasks persist even if the user refreshes the page.
 
 
-LGMVIP Web Developer Internship Task : Beginner Level - Task 1 Languages : HTML, CSS & JavaScript Ide : Microsoft Visual Studio
+Languages : HTML, CSS & JavaScript
+
+Ide : Microsoft Visual Studio
