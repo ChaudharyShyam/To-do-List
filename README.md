@@ -9,7 +9,7 @@ I crafted a dynamic To-Do List using HTML, CSS, and JavaScript, showcasing my sk
 
 This repository contains a simple To-Do List web application built using HTML, CSS, and JavaScript. The application allows users to add tasks, mark them as completed, and delete tasks.
 
-**Link :**  https://chaudharyshyam.github.io/LGMVIP-Web-Task-1/
+**Link :**  https://chaudharyshyam.github.io/To-do-List/
 
 # Features
 
